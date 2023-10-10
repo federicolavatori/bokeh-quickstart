@@ -1,1 +1,1 @@
-Quickstagi rt building a bokeh application
+Quickstart building an interactive dashboarding application with bokeh

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "bokeh-quickstart"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+bokeh = "^3.3.0"
+pandas = "^2.1.1"
+scipy = "^1.11.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
